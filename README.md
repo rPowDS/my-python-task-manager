@@ -10,7 +10,7 @@ This is a complete, persistent, and automated Command-Line Interface (CLI) appli
 It goes beyond a simple to-do list by calculating and displaying a Productivity Dashboard with data-driven metrics, including completion rates and a visual progress bar.
 
 <p align="center">
-<strong>(Your GIF/Screenshot Here!)</strong>
+<strong>(Screenshot Here!)</strong>
 
 
 
@@ -20,7 +20,7 @@ It goes beyond a simple to-do list by calculating and displaying a Productivity 
 
 
 
-<img src="https://placehold.co/700x350/222222/E0E0E0?text=Your+App+Demo+GIF+Here" alt="App Demo GIF">
+![Demo of the Python To-Do App in action](app-demo.png)
 </p>
 
 🚀 Features
